@@ -8,4 +8,3 @@ dependencies:
   - ipympl
   - numpy
   - pandas
-  - os  
